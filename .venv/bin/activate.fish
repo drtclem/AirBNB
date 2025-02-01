@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/drtclements/Desktop/Coding_Work/machine-learning-python-template/.venv"
+set -gx VIRTUAL_ENV "/Users/drtclements/Desktop/Coding_Work/AirBNB/.venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
